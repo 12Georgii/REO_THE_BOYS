@@ -1,0 +1,115 @@
+Change Component Footprint: Designator=C65 Old Footprint=CAP: MKT New Footprint=CAP: SMD 0603 MD IPC 782
+Change Component Footprint: Designator=C69 Old Footprint=CAP: MKT New Footprint=CAP: SMD 0603 MD IPC 782
+Change Component Footprint: Designator=C70 Old Footprint=CAP: MKT New Footprint=CAP: SMD 0603 MD IPC 782
+Change Component Footprint: Designator=C71 Old Footprint=CAP: MKT New Footprint=CAP: SMD 0603 MD IPC 782
+Change Component Footprint: Designator=C72 Old Footprint=CAP: MKT New Footprint=CAP: SMD 0603 MD IPC 782
+Change Component Footprint: Designator=C73 Old Footprint=CAP: MKT New Footprint=CAP: SMD 0603 MD IPC 782
+Change Component Comment : Designator=C65 Old Comment=0.1u 100V ±5% New Comment=0.1u 50V 0603 ±10%
+Change Component Comment : Designator=C69 Old Comment=0.1u 100V ±5% New Comment=0.1u 50V 0603 ±10%
+Change Component Comment : Designator=C70 Old Comment=0.1u 100V ±5% New Comment=0.1u 50V 0603 ±10%
+Change Component Comment : Designator=C71 Old Comment=0.1u 100V ±5% New Comment=0.1u 50V 0603 ±10%
+Change Component Comment : Designator=C72 Old Comment=0.1u 100V ±5% New Comment=0.1u 50V 0603 ±10%
+Change Component Comment : Designator=C73 Old Comment=0.1u 100V ±5% New Comment=0.1u 50V 0603 ±10%
+Change component parameters: Designator = "C65" ("C65"); Footprint = "CAP: MKT"; UniqueID = "\GNPJJMUZ\FMIRWWXH" ("\GNPJJMUZ\FMIRWWXH")
+Change component parameters (AddParameter): Name = "Code"; Value = "6279259871"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Конденсатор X7R 50V 0,1uF +-10% 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C69" ("C69"); Footprint = "CAP: MKT"; UniqueID = "\GNPJJMUZ\GLRIVHQE" ("\GNPJJMUZ\GLRIVHQE")
+Change component parameters (AddParameter): Name = "Code"; Value = "6279259871"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Конденсатор X7R 50V 0,1uF +-10% 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C70" ("C70"); Footprint = "CAP: MKT"; UniqueID = "\GNPJJMUZ\VWJIHWRE" ("\GNPJJMUZ\VWJIHWRE")
+Change component parameters (AddParameter): Name = "Code"; Value = "6279259871"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Конденсатор X7R 50V 0,1uF +-10% 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C71" ("C71"); Footprint = "CAP: MKT"; UniqueID = "\GNPJJMUZ\YXBFVIYH" ("\GNPJJMUZ\YXBFVIYH")
+Change component parameters (AddParameter): Name = "Code"; Value = "6279259871"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Конденсатор X7R 50V 0,1uF +-10% 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C72" ("C72"); Footprint = "CAP: MKT"; UniqueID = "\GNPJJMUZ\BTIPGADE" ("\GNPJJMUZ\BTIPGADE")
+Change component parameters (AddParameter): Name = "Code"; Value = "6279259871"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Конденсатор X7R 50V 0,1uF +-10% 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C73" ("C73"); Footprint = "CAP: MKT"; UniqueID = "\GNPJJMUZ\FSRJXZCS" ("\GNPJJMUZ\FSRJXZCS")
+Change component parameters (AddParameter): Name = "Code"; Value = "6279259871"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Конденсатор X7R 50V 0,1uF +-10% 0603"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found IND: SMD 0603
+Add Component: Footprint Not Found IND: SMD 0603
+Add Pin To Net: Unknown Pin: Pin DD1-1
+Add Pin To Net: Unknown Pin: Pin DD1-2
+Add Pin To Net: Unknown Pin: Pin DD1-3
+Add Pin To Net: Unknown Pin: Pin DD1-4
+Add Pin To Net: Unknown Pin: Pin DD1-5
+Add Pin To Net: Unknown Pin: Pin DD1-6
+Add Pin To Net: Unknown Pin: Pin DD1-7
+Add Pin To Net: Unknown Pin: Pin DD1-8
+Add Pin To Net: Unknown Pin: Pin DD1-9
+Add Pin To Net: Unknown Pin: Pin DD1-10
+Add Pin To Net: Unknown Pin: Pin DD1-11
+Add Pin To Net: Unknown Pin: Pin DD1-12
+Add Pin To Net: Unknown Pin: Pin DD1-13
+Add Pin To Net: Unknown Pin: Pin DD1-14
+Add Pin To Net: Unknown Pin: Pin DD1-15
+Add Pin To Net: Unknown Pin: Pin DD1-16
+Add Pin To Net: Unknown Pin: Pin DD1-17
+Add Pin To Net: Unknown Pin: Pin DD1-18
+Add Pin To Net: Unknown Pin: Pin DD1-19
+Add Pin To Net: Unknown Pin: Pin DD1-20
+Add Pin To Net: Unknown Pin: Pin DD1-21
+Add Pin To Net: Unknown Pin: Pin DD1-22
+Add Pin To Net: Unknown Pin: Pin DD1-23
+Add Pin To Net: Unknown Pin: Pin DD1-24
+Add Pin To Net: Unknown Pin: Pin DD2-1
+Add Pin To Net: Unknown Pin: Pin DD2-2
+Add Pin To Net: Unknown Pin: Pin DD2-3
+Add Pin To Net: Unknown Pin: Pin DD2-4
+Add Pin To Net: Unknown Pin: Pin DD2-5
+Add Pin To Net: Unknown Pin: Pin DD2-6
+Add Pin To Net: Unknown Pin: Pin DD2-7
+Add Pin To Net: Unknown Pin: Pin DD2-8
+Add Pin To Net: Unknown Pin: Pin DD2-9
+Add Pin To Net: Unknown Pin: Pin DD2-10
+Add Pin To Net: Unknown Pin: Pin DD2-11
+Add Pin To Net: Unknown Pin: Pin DD2-12
+Add Pin To Net: Unknown Pin: Pin DD2-13
+Add Pin To Net: Unknown Pin: Pin DD2-14
+Add Pin To Net: Unknown Pin: Pin DD2-15
+Add Pin To Net: Unknown Pin: Pin DD2-16
+Add Pin To Net: Unknown Pin: Pin DD2-17
+Add Pin To Net: Unknown Pin: Pin DD2-18
+Add Pin To Net: Unknown Pin: Pin DD2-19
+Add Pin To Net: Unknown Pin: Pin DD2-20
+Add Pin To Net: Unknown Pin: Pin DD2-21
+Add Pin To Net: Unknown Pin: Pin DD2-22
+Add Pin To Net: Unknown Pin: Pin DD2-23
+Add Pin To Net: Unknown Pin: Pin DD2-24
+Add Pin To Net: Unknown Pin: Pin DD3-18
+Add Pin To Net: Unknown Pin: Pin DD3-19
+Add Pin To Net: Unknown Pin: Pin DD3-21
+Add Pin To Net: Unknown Pin: Pin DD3-22
+Add Pin To Net: Unknown Pin: Pin DD3-24
+Add Pin To Net: Unknown Pin: Pin DD3-25
+Add Pin To Net: Unknown Pin: Pin DD3-26
+Add Pin To Net: Unknown Pin: Pin DD3-27
+Add Pin To Net: Unknown Pin: Pin DD3-31
+Add Pin To Net: Unknown Pin: Pin DD3-32
+Add Pin To Net: Unknown Pin: Pin DD3-34
+Add Pin To Net: Unknown Pin: Pin DD3-35
+Add Pin To Net: Unknown Pin: Pin DD3-37
+Add Pin To Net: Unknown Pin: Pin DD3-38
+Add Pin To Net: Unknown Pin: Pin DD3-39
+Add Pin To Net: Unknown Pin: Pin DD3-40
+Add Pin To Net: Unknown Pin: Pin DD3-44
+Add Pin To Net: Unknown Pin: Pin DD3-45
+Add Pin To Net: Unknown Pin: Pin DD3-46
+Add Pin To Net: Unknown Pin: Pin DD3-47
+Add Pin To Net: Unknown Pin: Pin DD3-48
+Add Pin To Net: Unknown Pin: Pin DD3-49
+Add Pin To Net: Unknown Pin: Pin DD3-51
+Add Pin To Net: Unknown Pin: Pin DD3-52
+Add Pin To Net: Unknown Pin: Pin DD3-60
+Add Pin To Net: Unknown Pin: Pin DD3-63
+Add Pin To Net: Unknown Pin: Pin DD3-64
+Add Pin To Net: Unknown Pin: Pin L4-1
+Add Pin To Net: Unknown Pin: Pin L4-2
+Add Pin To Net: Unknown Pin: Pin L5-1
+Add Pin To Net: Unknown Pin: Pin L5-2
+Add Class Member: Failed to add class member : Component DD1 ADS1232
+Add Class Member: Failed to add class member : Component DD2 ADS1232
+Add Class Member: Failed to add class member : Component L4 BLM18HE601SN1D
+Add Class Member: Failed to add class member : Component L5 BLM18HE601SN1D

@@ -1,0 +1,87 @@
+Added Component: Designator=DD1(TSSOP-24)
+Added Component: Designator=DD2(TSSOP-24)
+Add Component: Footprint Not Found IND: SMD 0603
+Add Component: Footprint Not Found IND: SMD 0603
+Added Pin To Net: NetName=+3ADC Pin=DD1-1
+Added Pin To Net: NetName=GND Pin=DD1-2
+Added Pin To Net: NetName=NetBQ2_2 Pin=DD1-3
+Added Pin To Net: NetName=GND Pin=DD1-4
+Added Pin To Net: NetName=NetDD1_5 Pin=DD1-5
+Added Pin To Net: NetName=NetDD1_5 Pin=DD1-6
+Added Pin To Net: NetName=NetDD1_5 Pin=DD1-7
+Added Pin To Net: NetName=NetDD1_5 Pin=DD1-8
+Added Pin To Net: NetName=NetC53_1 Pin=DD1-9
+Added Pin To Net: NetName=NetC53_2 Pin=DD1-10
+Added Pin To Net: NetName=NetDA14_7 Pin=DD1-11
+Added Pin To Net: NetName=GNDA Pin=DD1-12
+Added Pin To Net: NetName=GNDA Pin=DD1-13
+Added Pin To Net: NetName=GNDA Pin=DD1-14
+Added Pin To Net: NetName=GNDA Pin=DD1-15
+Added Pin To Net: NetName=+5ADC Pin=DD1-16
+Added Pin To Net: NetName=GNDA Pin=DD1-17
+Added Pin To Net: NetName=+5ADC Pin=DD1-18
+Added Pin To Net: NetName=GAIN0 Pin=DD1-19
+Added Pin To Net: NetName=GAIN1 Pin=DD1-20
+Added Pin To Net: NetName=SPEED Pin=DD1-21
+Added Pin To Net: NetName=PDWN Pin=DD1-22
+Added Pin To Net: NetName=SCLK Pin=DD1-23
+Added Pin To Net: NetName=DRDY Pin=DD1-24
+Added Pin To Net: NetName=+3ADC Pin=DD2-1
+Added Pin To Net: NetName=GND Pin=DD2-2
+Added Pin To Net: NetName=NetBQ1_2 Pin=DD2-3
+Added Pin To Net: NetName=GND Pin=DD2-4
+Added Pin To Net: NetName=GND Pin=DD2-5
+Added Pin To Net: NetName=GND Pin=DD2-6
+Added Pin To Net: NetName=GND Pin=DD2-7
+Added Pin To Net: NetName=GND Pin=DD2-8
+Added Pin To Net: NetName=NetC54_1 Pin=DD2-9
+Added Pin To Net: NetName=NetC54_2 Pin=DD2-10
+Added Pin To Net: NetName=NetC47_1 Pin=DD2-11
+Added Pin To Net: NetName=GNDA Pin=DD2-12
+Added Pin To Net: NetName=GNDA Pin=DD2-13
+Added Pin To Net: NetName=GNDA Pin=DD2-14
+Added Pin To Net: NetName=GNDA Pin=DD2-15
+Added Pin To Net: NetName=+5ADC Pin=DD2-16
+Added Pin To Net: NetName=GNDA Pin=DD2-17
+Added Pin To Net: NetName=+5ADC Pin=DD2-18
+Added Pin To Net: NetName=1GAIN0 Pin=DD2-19
+Added Pin To Net: NetName=1GAIN1 Pin=DD2-20
+Added Pin To Net: NetName=SPEED1 Pin=DD2-21
+Added Pin To Net: NetName=PDWN1 Pin=DD2-22
+Added Pin To Net: NetName=SCLK1 Pin=DD2-23
+Added Pin To Net: NetName=DRDY1 Pin=DD2-24
+Add Pin To Net: Unknown Pin: Pin DD3-18
+Add Pin To Net: Unknown Pin: Pin DD3-19
+Add Pin To Net: Unknown Pin: Pin DD3-21
+Add Pin To Net: Unknown Pin: Pin DD3-22
+Add Pin To Net: Unknown Pin: Pin DD3-24
+Add Pin To Net: Unknown Pin: Pin DD3-25
+Add Pin To Net: Unknown Pin: Pin DD3-26
+Add Pin To Net: Unknown Pin: Pin DD3-27
+Add Pin To Net: Unknown Pin: Pin DD3-31
+Add Pin To Net: Unknown Pin: Pin DD3-32
+Add Pin To Net: Unknown Pin: Pin DD3-34
+Add Pin To Net: Unknown Pin: Pin DD3-35
+Add Pin To Net: Unknown Pin: Pin DD3-37
+Add Pin To Net: Unknown Pin: Pin DD3-38
+Add Pin To Net: Unknown Pin: Pin DD3-39
+Add Pin To Net: Unknown Pin: Pin DD3-40
+Add Pin To Net: Unknown Pin: Pin DD3-44
+Add Pin To Net: Unknown Pin: Pin DD3-45
+Add Pin To Net: Unknown Pin: Pin DD3-46
+Add Pin To Net: Unknown Pin: Pin DD3-47
+Add Pin To Net: Unknown Pin: Pin DD3-48
+Add Pin To Net: Unknown Pin: Pin DD3-49
+Add Pin To Net: Unknown Pin: Pin DD3-51
+Add Pin To Net: Unknown Pin: Pin DD3-52
+Add Pin To Net: Unknown Pin: Pin DD3-60
+Add Pin To Net: Unknown Pin: Pin DD3-63
+Add Pin To Net: Unknown Pin: Pin DD3-64
+Add Pin To Net: Unknown Pin: Pin L4-1
+Add Pin To Net: Unknown Pin: Pin L4-2
+Add Pin To Net: Unknown Pin: Pin L5-1
+Add Pin To Net: Unknown Pin: Pin L5-2
+Added Member To Class: ClassName=INTERFACES Member=Component DD1 ADS1232
+Added Member To Class: ClassName=INTERFACES Member=Component DD2 ADS1232
+Add Class Member: Failed to add class member : Component L4 BLM18HE601SN1D
+Add Class Member: Failed to add class member : Component L5 BLM18HE601SN1D
