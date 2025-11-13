@@ -217,7 +217,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NBQOVQKV
 
 [Document11]
 DocumentPath=..\LIB_THE_BOYS\UOMP_connectors.SchLib
@@ -251,7 +251,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UXJUDNRE
 
 [Document13]
 DocumentPath=..\LIB_THE_BOYS\UOMP_diode.SchLib
@@ -268,7 +268,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DILBMVUQ
 
 [Document14]
 DocumentPath=..\LIB_THE_BOYS\UOMP_EEPROM.SchLib
@@ -285,7 +285,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DJXWZHQF
 
 [Document15]
 DocumentPath=..\LIB_THE_BOYS\UOMP_fuses.SchLib
@@ -302,7 +302,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MKWQALIQ
 
 [Document16]
 DocumentPath=..\LIB_THE_BOYS\UOMP_IC.SchLib
@@ -319,7 +319,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KJEPFYJV
 
 [Document17]
 DocumentPath=..\LIB_THE_BOYS\UOMP_inductors.SchLib
@@ -336,7 +336,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ODKZSWVN
 
 [Document18]
 DocumentPath=..\LIB_THE_BOYS\UOMP_mechanical.SchLib
@@ -353,7 +353,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RIKZHEKS
 
 [Document19]
 DocumentPath=..\LIB_THE_BOYS\UOMP_microcontrollers.SchLib
@@ -387,7 +387,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ODTBAFSF
 
 [Document21]
 DocumentPath=..\LIB_THE_BOYS\UOMP_optoislators.SchLib
@@ -421,7 +421,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TKCXDEPA
 
 [Document23]
 DocumentPath=..\LIB_THE_BOYS\UOMP_primitives.SchLib
@@ -438,7 +438,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MLSBQDMT
 
 [Document24]
 DocumentPath=..\LIB_THE_BOYS\UOMP_resistors.SchLib
@@ -455,7 +455,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OQATIJSN
 
 [Document25]
 DocumentPath=..\LIB_THE_BOYS\UOMP_resistors_0603.SchLib
@@ -489,7 +489,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VPXCAVEC
 
 [Document27]
 DocumentPath=REO_ECG.PcbDoc
@@ -507,6 +507,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XQPSMXCN
+
+[Document28]
+DocumentPath=REO_THE_BOYS.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources

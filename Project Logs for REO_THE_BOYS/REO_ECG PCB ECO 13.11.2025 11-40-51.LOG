@@ -1,0 +1,39 @@
+Add Component: Footprint Not Found IND: SMD 0603
+Add Component: Footprint Not Found IND: SMD 0603
+Add Pin To Net: Unknown Pin: Pin DD3-18
+Add Pin To Net: Unknown Pin: Pin DD3-19
+Add Pin To Net: Unknown Pin: Pin DD3-21
+Add Pin To Net: Unknown Pin: Pin DD3-22
+Add Pin To Net: Unknown Pin: Pin DD3-24
+Add Pin To Net: Unknown Pin: Pin DD3-25
+Add Pin To Net: Unknown Pin: Pin DD3-26
+Add Pin To Net: Unknown Pin: Pin DD3-27
+Add Pin To Net: Unknown Pin: Pin DD3-31
+Add Pin To Net: Unknown Pin: Pin DD3-32
+Add Pin To Net: Unknown Pin: Pin DD3-34
+Add Pin To Net: Unknown Pin: Pin DD3-35
+Add Pin To Net: Unknown Pin: Pin DD3-37
+Add Pin To Net: Unknown Pin: Pin DD3-38
+Add Pin To Net: Unknown Pin: Pin DD3-39
+Add Pin To Net: Unknown Pin: Pin DD3-40
+Add Pin To Net: Unknown Pin: Pin DD3-44
+Add Pin To Net: Unknown Pin: Pin DD3-45
+Add Pin To Net: Unknown Pin: Pin DD3-46
+Add Pin To Net: Unknown Pin: Pin DD3-47
+Add Pin To Net: Unknown Pin: Pin DD3-48
+Add Pin To Net: Unknown Pin: Pin DD3-49
+Add Pin To Net: Unknown Pin: Pin DD3-51
+Add Pin To Net: Unknown Pin: Pin DD3-52
+Add Pin To Net: Unknown Pin: Pin DD3-60
+Add Pin To Net: Unknown Pin: Pin DD3-63
+Add Pin To Net: Unknown Pin: Pin DD3-64
+Add Pin To Net: Unknown Pin: Pin L4-1
+Add Pin To Net: Unknown Pin: Pin L4-2
+Add Pin To Net: Unknown Pin: Pin L5-1
+Add Pin To Net: Unknown Pin: Pin L5-2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=TP15-1
+Added Pin To Net: NetName=NetC8_1 Pin=X2-3
+Added Net: Name=NetC8_1
+Add Class Member: Failed to add class member : Component L4 BLM18HE601SN1D
+Add Class Member: Failed to add class member : Component L5 BLM18HE601SN1D
