@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC8_2 Pin=DA2-1
+Removed Pin From Net: NetName=NetC8_2 Pin=R13-1
+Added Pin To Net: NetName=NetDA2_1 Pin=DA2-1
+Added Pin To Net: NetName=NetDA2_1 Pin=DA2-2
+Added Pin To Net: NetName=NetDA2_1 Pin=R13-1
+Added Net: Name=NetDA2_1
+Added Member To Class: ClassName=REO_ECG Member=Component TP11 Test point

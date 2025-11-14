@@ -1,0 +1,40 @@
+Added Component: Designator=DD3(MC: LQFP-64)
+Add component (AddParameter): Name = "Code"; Value = "6335530806"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Микросхема STM32F103RBT6"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=DD3-1
+Added Pin To Net: NetName=NetC62_1 Pin=DD3-5
+Added Pin To Net: NetName=NetDD3_6 Pin=DD3-6
+Added Pin To Net: NetName=NetC57_2 Pin=DD3-7
+Added Pin To Net: NetName=OFF ADJ Pin=DD3-10
+Added Pin To Net: NetName=LOGIC Pin=DD3-11
+Added Pin To Net: NetName=GNDA Pin=DD3-12
+Added Pin To Net: NetName=+3.3 Pin=DD3-13
+Added Pin To Net: NetName=+3.3USB Pin=DD3-14
+Added Pin To Net: NetName=GND Pin=DD3-18
+Added Pin To Net: NetName=+3.3MCU Pin=DD3-19
+Added Pin To Net: NetName=SCLK Pin=DD3-21
+Added Pin To Net: NetName=DRDY Pin=DD3-22
+Added Pin To Net: NetName=1GAIN1 Pin=DD3-24
+Added Pin To Net: NetName=1GAIN0 Pin=DD3-25
+Added Pin To Net: NetName=NetDD3_26 Pin=DD3-26
+Added Pin To Net: NetName=NetDD3_27 Pin=DD3-27
+Added Pin To Net: NetName=GND Pin=DD3-31
+Added Pin To Net: NetName=+3.3MCU Pin=DD3-32
+Added Pin To Net: NetName=SCLK1 Pin=DD3-34
+Added Pin To Net: NetName=DRDY1 Pin=DD3-35
+Added Pin To Net: NetName=PDWN1 Pin=DD3-37
+Added Pin To Net: NetName=SPEED1 Pin=DD3-38
+Added Pin To Net: NetName=SPEED Pin=DD3-39
+Added Pin To Net: NetName=PDWN Pin=DD3-40
+Added Pin To Net: NetName=1D_N Pin=DD3-44
+Added Pin To Net: NetName=1D_P Pin=DD3-45
+Added Pin To Net: NetName=SWIO Pin=DD3-46
+Added Pin To Net: NetName=GND Pin=DD3-47
+Added Pin To Net: NetName=+3.3MCU Pin=DD3-48
+Added Pin To Net: NetName=SWCLK Pin=DD3-49
+Added Pin To Net: NetName=GAIN0 Pin=DD3-51
+Added Pin To Net: NetName=GAIN1 Pin=DD3-52
+Added Pin To Net: NetName=NetDD3_60 Pin=DD3-60
+Added Pin To Net: NetName=GND Pin=DD3-63
+Added Pin To Net: NetName=+3.3MCU Pin=DD3-64
+Added Member To Class: ClassName=INTERFACES Member=Component DD3 STM32F103RBT6
