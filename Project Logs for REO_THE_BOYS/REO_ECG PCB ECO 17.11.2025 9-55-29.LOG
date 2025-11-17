@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=+5P Pin=GB1-1+
+Removed Pin From Net: NetName=GNDA Pin=GB1-1-
+Removed Pin From Net: NetName=+5P Pin=GB1-2+
+Removed Pin From Net: NetName=GNDA Pin=GB1-2-
+Removed Pin From Net: NetName=+5P Pin=GB1-3+
+Removed Pin From Net: NetName=GNDA Pin=GB1-3-
+Removed Member From Class: ClassName=POWER Member=GB1
+Added Component: Designator=X?(CON: 2pin Molex MicroFit 3.0 43650-0225)
+Add component (AddParameter): Name = "Code"; Value = "6319211711"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Вилка Micro-Fit 3.0 43650-0225, Molex"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5P Pin=X?-1
+Added Pin To Net: NetName=GNDA Pin=X?-2
+Change Net Name : Old Net Name=+5P New Net Name=+P
+Added Member To Class: ClassName=REO_ECG Member=Component X? MicroFit 3.0 43650-0225

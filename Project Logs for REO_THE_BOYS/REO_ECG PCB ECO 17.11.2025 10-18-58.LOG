@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=REO_ECG Member=X5
+Change Component Footprint: Designator=X7 Old Footprint=USB-A vertical New Footprint=CON: 4PIN USB B
+Added Member To Class: ClassName=REO_ECG Member=Component X3 MicroFit 3.0 43650-0225
+Added Member To Class: ClassName=REO_ECG Member=Component X4 Micro-USB
+Added Member To Class: ClassName=INTERFACES Member=Component X6 BH20

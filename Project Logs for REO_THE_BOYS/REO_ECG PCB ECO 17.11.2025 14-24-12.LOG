@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GNDA Pin=C6-1
+Removed Pin From Net: NetName=NetC6_2 Pin=C6-2
+Removed Pin From Net: NetName=NetC5_1 Pin=R8-1
+Change Component Designator: OldDesignator=C5 NewDesignator=C6
+Added Component: Designator=C5(CAP: SMD 0805 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6279254871"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Конденсатор X7R 50V 0,1uF ±10% 0805"; VariantName = "[No Variations]"
+Added Component: Designator=TP5(Test Point)
+Added Pin To Net: NetName=NetC6_2 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=C5-2
+Added Pin To Net: NetName=GNDA Pin=R8-1
+Added Pin To Net: NetName=NetC47_1 Pin=TP5-1
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NetC6_2 New Net Name=NetC5_1
+Added Member To Class: ClassName=REO_ECG Member=Component TP5 Test point
+Added Member To Class: ClassName=REO_ECG Member=Component TP21 Test point

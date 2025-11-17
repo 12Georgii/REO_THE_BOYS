@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=DA6-2
+Removed Pin From Net: NetName=GND Pin=DA6-5
+Added Pin To Net: NetName=GNDA Pin=DA6-2
+Added Pin To Net: NetName=GNDA Pin=DA6-5
+Added Member To Class: ClassName=Generator Member=Component C5 0.1u 50V 0805 ±10%
+Added Member To Class: ClassName=Generator Member=Component C6 6.8n 50V 0805 ±5%
