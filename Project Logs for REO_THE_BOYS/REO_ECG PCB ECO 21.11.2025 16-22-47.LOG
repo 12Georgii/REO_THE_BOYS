@@ -1,0 +1,15 @@
+Change Footprint: Footprint Not Found IND: SMD 0603 BLM18HE601SN1D
+Change Footprint: Footprint Not Found IND: SMD 0603 BLM18HE601SN1D
+Add Component: Footprint Not Found IND: SMD 0603 BLM18HE601SN1D
+Add Component: Footprint Not Found IND: SMD 0603 BLM18HE601SN1D
+Add Pin To Net: Unknown Pin: Pin R52-1
+Add Pin To Net: Unknown Pin: Pin R52-2
+Add Pin To Net: Unknown Pin: Pin R53-1
+Add Pin To Net: Unknown Pin: Pin R53-2
+Add Class Member: Failed to add class member : Component R52 27 ±1% 0603
+Add Class Member: Failed to add class member : Component R53 27 ±1% 0603
+Added Member To Class: ClassName=INTERFACES Member=Component R56 1k ±1% 0603
+Added Member To Class: ClassName=INTERFACES Member=Component R57 10k ±1% 0603
+Added Member To Class: ClassName=INTERFACES Member=Component R58 1k
+Added Member To Class: ClassName=INTERFACES Member=Component TP30 Test point
+Added Member To Class: ClassName=INTERFACES Member=Component TP31 Test point

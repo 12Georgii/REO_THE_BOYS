@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=GND Pin=R54-1
+Removed Pin From Net: NetName=1D_N Pin=X7-2
+Removed Pin From Net: NetName=1D_P Pin=X7-3
+Removed Member From Class: ClassName=INTERFACES Member=TP32
+Removed Member From Class: ClassName=INTERFACES Member=TP33
+Change Footprint: Footprint Not Found IND: SMD 0603 BLM18HE601SN1D
+Change Footprint: Footprint Not Found IND: SMD 0603 BLM18HE601SN1D
+Change Component Comment : Designator=R55 Old Comment=33k ±5% 0603 New Comment=27 ±1% 0603
+Change Component Comment : Designator=R54 Old Comment=82k ±1% 0603 New Comment=27 ±1% 0603
+Change Component Designator: OldDesignator=R52 NewDesignator=R56
+Change Component Designator: OldDesignator=R53 NewDesignator=R57
+Change Component Designator: OldDesignator=R56 NewDesignator=R58
+Change Component Designator: OldDesignator=R57 NewDesignator=R59
+Change Component Designator: OldDesignator=R58 NewDesignator=R60
+Change Component Designator: OldDesignator=TP31 NewDesignator=TP30
+Change Component Designator: OldDesignator=TP33 NewDesignator=TP31
+Change component parameters: Designator = "R54" ("R54"); Footprint = "RES: SMD 0603 MD IPC 782"; UniqueID = "\GNPJJMUZ\AVXFZTCD" ("\GNPJJMUZ\AVXFZTCD")
+Change component parameters (AddParameter): Name = "Code"; Value = "6069180381"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Ðåçèñòîð 27R±1% 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R55" ("R55"); Footprint = "RES: SMD 0603 MD IPC 782"; UniqueID = "\GNPJJMUZ\QXWCXLBN" ("\GNPJJMUZ\QXWCXLBN")
+Change component parameters (AddParameter): Name = "Code"; Value = "6069180381"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Ðåçèñòîð 27R±1% 0603"; VariantName = "[No Variations]"
+Added Component: Designator=DA15(IC: SOIC 16 WIDE)
+Add component (AddParameter): Name = "Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Ìèêðîñõåìà ADuM4160"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found IND: SMD 0603 BLM18HE601SN1D
+Add Component: Footprint Not Found IND: SMD 0603 BLM18HE601SN1D
+Added Pin To Net: NetName=GND Pin=DA15-2
+Added Pin To Net: NetName=GND Pin=DA15-3
+Added Pin To Net: NetName=GND Pin=DA15-4
+Added Pin To Net: NetName=GND Pin=DA15-5
+Added Pin To Net: NetName=GND Pin=DA15-8
+Added Pin To Net: NetName=GND Pin=DA15-9
+Added Pin To Net: NetName=GND Pin=DA15-12
+Added Pin To Net: NetName=GND Pin=DA15-13
+Added Pin To Net: NetName=GND Pin=DA15-14
+Added Pin To Net: NetName=GND Pin=DA15-15
+Add Pin To Net: Unknown Pin: Pin R52-1
+Add Pin To Net: Unknown Pin: Pin R53-1
+Added Pin To Net: NetName=+5 USB Pin=DA15-1
+Added Pin To Net: NetName=+5 USB Pin=DD3-43
+Added Net: Name=+5 USB
+Added Pin To Net: NetName=2D_N Pin=DA15-6
+Added Net: Name=2D_N
+Added Pin To Net: NetName=2D_P Pin=DA15-7
+Added Net: Name=2D_P
+Added Pin To Net: NetName=3D_N Pin=DA15-11
+Added Pin To Net: NetName=3D_N Pin=R54-1
+Added Net: Name=3D_N
+Added Pin To Net: NetName=3D_P Pin=DA15-10
+Added Pin To Net: NetName=3D_P Pin=R55-1
+Added Net: Name=3D_P
+Added Pin To Net: NetName=4D_N Pin=R54-2
+Added Pin To Net: NetName=4D_N Pin=X7-2
+Added Net: Name=4D_N
+Added Pin To Net: NetName=4D_P Pin=R55-2
+Added Pin To Net: NetName=4D_P Pin=X7-3
+Added Net: Name=4D_P
+Added Pin To Net: NetName=NetDA15_16 Pin=DA15-16
+Added Pin To Net: NetName=NetDA15_16 Pin=X7-1
+Added Net: Name=NetDA15_16
+Added Differential Pair: Name=2D
+Added Differential Pair: Name=3D
+Added Differential Pair: Name=4D
+Added Member To Class: ClassName=INTERFACES Member=Component C66 0.22u 50V 0603 ±10% analogue
+Added Member To Class: ClassName=INTERFACES Member=Component C68 4.7u 25V 0805 ±10%
+Added Member To Class: ClassName=INTERFACES Member=Component C70 0.1u 50V 0603 ±10%
+Added Member To Class: ClassName=INTERFACES Member=Component C72 0.1u 50V 0603 ±10%
+Added Member To Class: ClassName=INTERFACES Member=Component DA15 ADuM4160
+Added Member To Class: ClassName=INTERFACES Member=Component R59 1k
+Added Member To Class: ClassName=INTERFACES Member=Component R60 1k

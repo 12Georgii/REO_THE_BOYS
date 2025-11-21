@@ -1,0 +1,123 @@
+Removed Pin From Net: NetName=GNDA Pin=B1-1
+Removed Pin From Net: NetName=GNDA Pin=B1-1
+Removed Pin From Net: NetName=GNDA Pin=B1-1
+Removed Pin From Net: NetName=GNDA Pin=B1-1
+Removed Pin From Net: NetName=GNDA Pin=B1-1
+Removed Pin From Net: NetName=+3.3 Pin=B1-3
+Removed Pin From Net: NetName=NetB1_2 Pin=R53-2
+Change Component Designator: OldDesignator=C66 NewDesignator=C67
+Change Component Designator: OldDesignator=C67 NewDesignator=C68
+Change Component Designator: OldDesignator=C68 NewDesignator=C69
+Change Component Designator: OldDesignator=C69 NewDesignator=C70
+Change Component Designator: OldDesignator=C70 NewDesignator=C71
+Change Component Designator: OldDesignator=C71 NewDesignator=C72
+Change Component Designator: OldDesignator=C72 NewDesignator=C73
+Change Component Designator: OldDesignator=C73 NewDesignator=C74
+Added Component: Designator=C66(CAP: SMD 0603 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6270001221"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Конденсатор X7R 50V 0,22uF±10% 0603"; VariantName = "[No Variations]"
+Added Component: Designator=DD4(IC: SOIC 8)
+Add component (AddParameter): Name = "Code"; Value = "6339110311"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Микросхема M24M01-RMN6TP, ST"; VariantName = "[No Variations]"
+Added Component: Designator=R56(RES: SMD 0603 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6069174188"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 1k ±1% 0603"; VariantName = "[No Variations]"
+Added Component: Designator=R57(RES: SMD 0603 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6069174188"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 1k ±1% 0603"; VariantName = "[No Variations]"
+Added Component: Designator=R58(RES: SMD 0603 MD IPC 782)
+Add component (AddParameter): Name = "Code"; Value = "6069174188"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Резистор 1k ±1% 0603"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(Test Point)
+Added Component: Designator=TP2(Test Point)
+Added Component: Designator=TP3(Test Point)
+Added Component: Designator=TP6(Test Point)
+Added Component: Designator=TP7(Test Point)
+Added Component: Designator=TP8(Test Point)
+Added Component: Designator=TP9(Test Point)
+Added Component: Designator=TP10(Test Point)
+Added Component: Designator=TP12(Test Point)
+Added Component: Designator=TP14(Test Point)
+Added Component: Designator=TP16(Test Point)
+Added Component: Designator=TP19(Test Point)
+Added Component: Designator=TP22(Test Point)
+Added Component: Designator=TP23(Test Point)
+Added Component: Designator=TP24(Test Point)
+Added Component: Designator=TP30(Test Point)
+Added Component: Designator=TP31(Test Point)
+Added Component: Designator=TP32(Test Point)
+Added Component: Designator=TP33(Test Point)
+Added Pin To Net: NetName=+3.3MCU Pin=B1-3
+Added Pin To Net: NetName=+3.3MCU Pin=C66-1
+Added Pin To Net: NetName=GND Pin=C66-2
+Added Pin To Net: NetName=NetB1_2 Pin=DD3-60
+Added Pin To Net: NetName=GND Pin=DD4-2
+Added Pin To Net: NetName=GND Pin=DD4-3
+Added Pin To Net: NetName=GND Pin=DD4-4
+Added Pin To Net: NetName=+3.3MCU Pin=DD4-8
+Added Pin To Net: NetName=GND Pin=R53-2
+Added Pin To Net: NetName=+3.3MCU Pin=R56-2
+Added Pin To Net: NetName=+3.3MCU Pin=R57-2
+Added Pin To Net: NetName=+3.3MCU Pin=R58-2
+Added Pin To Net: NetName=GNDA Pin=TP1-1
+Added Pin To Net: NetName=GND Pin=TP2-1
+Added Pin To Net: NetName=NetDD3_26 Pin=TP3-1
+Added Pin To Net: NetName=NetDD3_27 Pin=TP6-1
+Added Pin To Net: NetName=+5 Pin=TP7-1
+Added Pin To Net: NetName=+5C Pin=TP8-1
+Added Pin To Net: NetName=+5ADC Pin=TP9-1
+Added Pin To Net: NetName=-12 Pin=TP10-1
+Added Pin To Net: NetName=+12 Pin=TP12-1
+Added Pin To Net: NetName=+3.3 Pin=TP14-1
+Added Pin To Net: NetName=+3.3M Pin=TP16-1
+Added Pin To Net: NetName=+3.3ADC Pin=TP19-1
+Added Pin To Net: NetName=+1.65 Pin=TP22-1
+Added Pin To Net: NetName=NetDA1_1 Pin=TP23-1
+Added Pin To Net: NetName=NetC5_2 Pin=TP24-1
+Added Pin To Net: NetName=+3.3USB Pin=TP30-1
+Added Pin To Net: NetName=+3ADC Pin=TP31-1
+Added Pin To Net: NetName=NetR55_2 Pin=TP32-1
+Added Pin To Net: NetName=+3.3MCU Pin=TP33-1
+Added Pin To Net: NetName=MEM SCL Pin=DD3-29
+Added Pin To Net: NetName=MEM SCL Pin=DD4-6
+Added Pin To Net: NetName=MEM SCL Pin=R57-1
+Added Net: Name=MEM SCL
+Added Pin To Net: NetName=MEM SDA Pin=DD3-30
+Added Pin To Net: NetName=MEM SDA Pin=DD4-5
+Added Pin To Net: NetName=MEM SDA Pin=R58-1
+Added Net: Name=MEM SDA
+Added Pin To Net: NetName=MEM WP Pin=DD3-28
+Added Pin To Net: NetName=MEM WP Pin=DD4-7
+Added Pin To Net: NetName=MEM WP Pin=R56-1
+Added Net: Name=MEM WP
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_1 Pin=R53-1
+Added Net: Name=NetB1_1
+Added Member To Class: ClassName=INTERFACES Member=Component C74 0.1u 50V 0603 ±10%
+Added Member To Class: ClassName=INTERFACES Member=Component DD4 M24M01-RMN6TP
+Added Member To Class: ClassName=INTERFACES Member=Component R56 1k
+Added Member To Class: ClassName=INTERFACES Member=Component R57 1k
+Added Member To Class: ClassName=INTERFACES Member=Component R58 1k
+Added Member To Class: ClassName=REO_ECG Member=Component TP1 Test point
+Added Member To Class: ClassName=REO_ECG Member=Component TP2 Test point
+Added Member To Class: ClassName=REO_ECG Member=Component TP3 Test point
+Added Member To Class: ClassName=REO_ECG Member=Component TP6 Test point
+Added Member To Class: ClassName=REO_ECG Member=Component TP7 Test point
+Added Member To Class: ClassName=REO_ECG Member=Component TP8 Test point
+Added Member To Class: ClassName=REO_ECG Member=Component TP9 Test point
+Added Member To Class: ClassName=REO_ECG Member=Component TP10 Test point
+Added Member To Class: ClassName=REO_ECG Member=Component TP12 Test point
+Added Member To Class: ClassName=REO_ECG Member=Component TP14 Test point
+Added Member To Class: ClassName=REO_ECG Member=Component TP16 Test point
+Added Member To Class: ClassName=REO_ECG Member=Component TP19 Test point
+Added Member To Class: ClassName=REO_ECG Member=Component TP22 Test point
+Added Member To Class: ClassName=Generator Member=Component TP23 Test point
+Added Member To Class: ClassName=Generator Member=Component TP24 Test point
+Added Member To Class: ClassName=INTERFACES Member=Component TP30 Test point
+Added Member To Class: ClassName=INTERFACES Member=Component TP31 Test point
+Added Member To Class: ClassName=INTERFACES Member=Component TP32 Test point
+Added Member To Class: ClassName=INTERFACES Member=Component TP33 Test point
